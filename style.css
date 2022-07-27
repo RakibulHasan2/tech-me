@@ -13,3 +13,15 @@
  .asking-body{
     left: 12%;
  }
+
+ /* footer styles */
+ .height-footer{
+    height: 400px;
+ }
+
+/* social icon styles */
+.white-color{
+    color: white;
+    font-size: 1.5rem;
+    padding: 8px;
+}
