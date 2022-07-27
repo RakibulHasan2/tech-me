@@ -1,9 +1,15 @@
+/* sliders text styles */
 .centered-text{
     top: 30%;
 }
 .centered-text h1{
     font-size: 5rem;
 }
+/* courses heading styles */
 .big-heading{
     font-size: 3rem;
 }
+ /* asking question section */
+ .asking-body{
+    left: 12%;
+ }
