@@ -4,11 +4,14 @@
     opacity: 0.9;
 }
 .centered-text{
-    top: 30%;
+    top: 25%;
 }
-.centered-text h1{
-    font-size: 5em;
+ .centered-text h1{
+    font-size: 4vw;
 }
+.centered-text p{
+    font-size: 1.7vw;
+} 
 /* courses heading styles */
 .big-heading{
     font-size: 3rem;
@@ -17,15 +20,13 @@
  .asking-body{
     left: 12%;
  }
-
- /* footer styles */
- .height-footer{
-    height: 400px;
- }
-
 /* social icon styles */
 .white-color{
     color: white;
     font-size: 1.5rem;
     padding: 8px;
 }
+ /* footer styles */
+ .height-footer{
+    height: 400px;
+ }
