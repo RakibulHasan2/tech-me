@@ -1,9 +1,13 @@
 /* sliders text styles */
+.dark-back img{
+    filter: brightness(30%);
+    opacity: 0.9;
+}
 .centered-text{
     top: 30%;
 }
 .centered-text h1{
-    font-size: 5rem;
+    font-size: 5em;
 }
 /* courses heading styles */
 .big-heading{
